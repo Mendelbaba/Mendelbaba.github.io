@@ -10,3 +10,23 @@ html {
 h1 {
   font-family: "Amatic SC", cursive;
 }
+h2 {
+  font-family: "Amatic SC", cursive;
+}
+
+iframe {
+  position: absolute;
+  top: 50%;
+  left: calc(50vw - 200px);
+}
+h1 {
+  text-align: center;
+  padding-top: 1px;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 1px;
+  color: white;
+}
